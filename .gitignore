@@ -1,0 +1,15 @@
+# Maven build output
+target/
+
+# Compiled Java class files
+*.class
+
+# VS Code workspace settings (machine-specific)
+.vscode/
+
+# macOS junk
+.DS_Store
+._*
+
+# Logs
+*.log
